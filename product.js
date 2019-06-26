@@ -5,7 +5,7 @@ console.log("calling rest api ");
 var products = [
 				{id : 1,title:'Rose', description : 'Valentine flower', quantity :500,unitprice :12},
 				{id : 2,title:'Gerberra', description : 'Wedding flower', quantity :1500,unitprice :80},
-				{id : 3,title:'Lily', description : 'Smelling flower', quantity :800,unitprice :60},
+				{id : 3,title:'siLily', description : 'Smelling flower', quantity :800,unitprice :60},
 				{id : 4,title:'Lotus', description : 'Worship flower', quantity :1000,unitprice :50},
 				{id : 5,title:'MariGold', description : 'Cooking flower', quantity :1500,unitprice :10},
 				];
